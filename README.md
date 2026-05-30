@@ -121,6 +121,6 @@ Application-E_commerce/
 └── README.md                 # Ce fichier
 
 
-##👥 Équipe et contributions
+👥 Équipe et contributions
 Développeurs : Yameogo2004 - Abdoul-fath - Nachda
 Travail réalisé dans le cadre du module "Sécurité Informatique"

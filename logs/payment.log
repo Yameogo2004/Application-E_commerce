@@ -1,0 +1,18 @@
+2026-05-30 01:24:50.741 [INFO ] com.chrionline.payment - 💰 Début du checkout - Utilisateur: 12, Nb produits: 3, Total: 0.0 DH
+2026-05-30 01:24:50.763 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:27:32.421 [INFO ] com.chrionline.payment - 💰 Début du checkout - Utilisateur: 12, Nb produits: 4, Total: 0.0 DH
+2026-05-30 01:27:32.439 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:31:58.583 [INFO ] com.chrionline.payment - 💰 Début du checkout - Utilisateur: 12, Nb produits: 4, Total: 0.0 DH
+2026-05-30 01:31:58.591 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:33:34.776 [INFO ] com.chrionline.payment - 💰 Début du checkout - Utilisateur: 12, Nb produits: 4, Total: 0.0 DH
+2026-05-30 01:33:34.793 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:37:51.175 [INFO ] com.chrionline.payment - 💰 Début du checkout - Utilisateur: 12, Nb produits: 4, Total: 0.0 DH
+2026-05-30 01:37:51.187 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:42:37.546 [INFO ] com.chrionline.payment - 💰 Début du checkout - Utilisateur: 12, Nb produits: 4, Total: 0.0 DH
+2026-05-30 01:42:37.564 [INFO ] com.chrionline.payment - ✅ Anti-rejeu OK - Checkout - clientId: 12
+2026-05-30 01:42:37.641 [INFO ] com.chrionline.payment - ✅ Commande créée - Utilisateur: 12, UUID: 45fd9159-aa9c-4463-b91d-4348a43577db, Total: 6175.0 DH
+2026-05-30 01:42:42.090 [INFO ] com.chrionline.payment - 💰 Paiement en espèces sélectionné - Montant: 6175.0 DH
+2026-05-30 01:42:42.095 [INFO ] com.chrionline.payment - 💸 Traitement du paiement avec anti-rejeu - UUID: 45fd9159-aa9c-4463-b91d-4348a43577db, Méthode: especes, Montant: 6175.0 DH, Nonce: 91647f9a...
+2026-05-30 01:42:42.618 [INFO ] com.chrionline.payment - ✅ Anti-rejeu OK - Paiement - UUID: 45fd9159-aa9c-4463-b91d-4348a43577db
+2026-05-30 01:42:42.750 [INFO ] com.chrionline.payment - ✅ Paiement réussi - UUID: 45fd9159-aa9c-4463-b91d-4348a43577db, Montant: 6175.0 DH
+2026-05-30 01:42:42.752 [INFO ] com.chrionline.payment - ✅ Paiement réussi - UUID: 45fd9159-aa9c-4463-b91d-4348a43577db, Méthode: especes, Montant: 6175.0 DH

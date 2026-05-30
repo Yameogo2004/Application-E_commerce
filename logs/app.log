@@ -1,0 +1,602 @@
+2026-05-30 00:00:09.640 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:P8AzIWqGL+fZJVJ3P3HfKw4gwLnZN3sInmAqvyFtyuXaXZYyA1NyEw==
+2026-05-30 00:00:09.690 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:00:09.691 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:00:09.699 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:00:09.703 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:00:09.788 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:JScZKv+Cz019KNcXO6VHcL4qHuP5mRtX5Kt9sX2g6U+AMOlC0XEy
+2026-05-30 00:00:09.789 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:00:39.654 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:QjHTSl23Im9r0HPoef8u30xpOXnDr25alBujaFf/fA+WgUcmeNjUlg==
+2026-05-30 00:00:39.655 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:00:39.655 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:00:39.660 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:00:39.661 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:00:39.735 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:Ms++QqBzEr+WXbN5YIfaaLObyN160qzTNN1MBLDDA+1SrPFaty9F
+2026-05-30 00:00:39.736 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:01:09.666 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:GBdjFeyhUyDwLdSxrHDiFZK7UB1014imTv6D1+/qY5xHAys2yAJ7Yg==
+2026-05-30 00:01:09.667 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:01:09.667 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:01:09.672 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:01:09.673 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:01:09.779 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:TGla5oP85iXwwVEfNKKZlxsa+qDg37h5RoOh+qqUOHowsfibHtzd
+2026-05-30 00:01:09.780 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:01:39.675 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:K1pgCOjXmHlN+1G+xzy6w1Mup9+W9olfJTZDQY8l5l9KiiTLy/ix4g==
+2026-05-30 00:01:39.676 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:01:39.676 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:01:39.680 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:01:39.680 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:01:39.732 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:TWkDTAuvmS3ebrylG8CBD7dx6mg3PQNB0SXiXxpG4nn7DWE/4Psp
+2026-05-30 00:01:39.733 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:02:09.684 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:27Vtxq/WGLUlbLTvuNx4Z/x9noDOTk5Iy846btFvcTRTBxdk8JvR5g==
+2026-05-30 00:02:09.684 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:02:09.684 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:02:09.687 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:02:09.687 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:02:09.715 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:SYv9ohj68ejWN34h7+vK9iEt56VlNPJe4pah0946F4AjdsG8RaSS
+2026-05-30 00:02:09.716 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:02:39.700 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:xTloppsQuA41qjt3BU023otS2WehL4HT0OsJNY65yoPMsYyMvbnVVQ==
+2026-05-30 00:02:39.700 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:02:39.701 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:02:39.703 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:02:39.704 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:02:39.755 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:SvSOIr9eysZ/35My5S0DP4LTLhcNgkVRikOHDzo9NktmkGrqhPpR
+2026-05-30 00:02:39.756 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:03:09.715 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:0hflW6M0pWkiZGsNYxOyOJtj7xFnvZNkBplbAn7stBcmpZoy+QBYvA==
+2026-05-30 00:03:09.715 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:03:09.715 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:03:09.718 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:03:09.718 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:03:09.766 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:ZGlEpBc7DVpWBrbNUH+1xp7MzjZAB+7vhcFPsRK12tCKi4qLTSD5
+2026-05-30 00:03:09.767 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:03:39.727 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:pbu6WjCicM1AKd1fSEOEm66qhxIei82/xXIieXxdVFBvpBLhsvc56g==
+2026-05-30 00:03:39.728 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:03:39.728 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:03:39.731 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:03:39.732 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:03:39.776 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:BP2025OMBs0s43+MmhP8Dm2c5UyEeCd/2EexxzCbDLKANZ/QNzWw
+2026-05-30 00:03:39.777 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:04:09.740 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:p4IIb35ObEGNv/v7fMeiLvTE2GVOaWF34qDQi70BczSJptJZ9KJDtw==
+2026-05-30 00:04:09.740 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:04:09.740 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:04:09.742 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:04:09.742 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:04:09.777 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:irpBb2ahgF834Jk77/Ltev6IJT6McaTot14F+M2fgeqREbmY9VlJ
+2026-05-30 00:04:09.778 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:04:39.740 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:RoNP6M9/D6hsNe3NT1UaSZ1GVsbNRWwr4tNhqkG3aUrbIs4O4siK/Q==
+2026-05-30 00:04:39.740 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:04:39.741 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:04:39.744 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:04:39.744 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:04:39.770 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:0041bxhvWW6wOzxoC3jW5URJnwXqljY7ZBAld7CWfFqLSbz9rv2g
+2026-05-30 00:04:39.771 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:05:09.741 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:HaN9lsYX4VvfeksvPMw9UBMJVe963RQkle4dMMpmKhfHxW1PgssBWw==
+2026-05-30 00:05:09.742 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:05:09.742 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:05:09.744 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:05:09.744 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:05:09.769 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:EmElK5jyPh4anVM7P2EbXpwlSTR8NWfJbp0vpxaa7PEROeWGnAzN
+2026-05-30 00:05:09.769 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:05:39.747 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:Rs5ARqf2Q4AGmZ+923hrW1j9ItwOOsvoFozTwgqjhcz3Kw3OLNCE7Q==
+2026-05-30 00:05:39.747 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:05:39.748 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:05:39.749 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:05:39.750 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:05:39.772 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:Gi3szoCecZB2xdEXc4cQvFt1AJZ4SEKjZiyw9dWKFuifFJNsUdkK
+2026-05-30 00:05:39.772 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:06:09.748 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:nS+58PPgjKIQSQAAjCLuDDEEAPCVZLhEqHIq4H97elHYyh96KnM9JQ==
+2026-05-30 00:06:09.748 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:06:09.748 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:06:09.751 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:06:09.752 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:06:09.775 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:h4QFKaGElyiQgixS/AJvJnJlkCrxkUCpT8HZKJbxOe+UBFzb9N4i
+2026-05-30 00:06:09.776 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:06:39.753 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:TUvqd22hBA3AFhqAwts8HgGRs8HahIFeNUREwo/TnNQgT8rGZVquVA==
+2026-05-30 00:06:39.755 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:06:39.755 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:06:39.757 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:06:39.758 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:06:39.777 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:TY+y/YOhSKx+LWr5Fh0bo1eK0VShFf1ozU4V2Cbon6yJf4J32oKk
+2026-05-30 00:06:39.777 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:07:09.768 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:EYabi1LsMgf7PIEbLTEX7GNGUC8plw3HghDjFlxp8zUacSqKml3Msw==
+2026-05-30 00:07:09.768 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:07:09.769 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:07:09.771 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:07:09.771 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:07:09.800 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:lRDi02gkgyzTY3UdhGBY/h+96ffbIeCuHjRfIE1qzgGbjP9qGnS2
+2026-05-30 00:07:09.800 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:07:39.771 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:JFSaoDAaALoBp7WpPJELYXM8yeR8eo6zeynA4L23xQiqrWpp2HDsiA==
+2026-05-30 00:07:39.771 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:07:39.771 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:07:39.773 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:07:39.773 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:07:39.800 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:ILwFMKEGnswRZXx1QTg7Te4ysIR7eeAmlakgDC0f8aNEDDSeKBEA
+2026-05-30 00:07:39.802 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:08:09.772 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:Caxj0h2t0AO6xAyJJ11YDRGGs8/HEZMI9j8N/GSdmRUfttH21ERQdw==
+2026-05-30 00:08:09.772 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:08:09.772 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:08:09.774 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:08:09.774 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:08:09.799 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:jkK7j8pgdhO+jHXjDd4vir5hSXcv8LW9gEVYDXdngXYKTG/IiGUh
+2026-05-30 00:08:09.799 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:08:39.781 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:UNgDRGmuKHzG3eeiQDOSJSE3DDmYE3/a6rtV6xI2MFTEUpxtaEYiPA==
+2026-05-30 00:08:39.781 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:08:39.781 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:08:39.783 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:08:39.783 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:08:39.809 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:5RvWJLWYkgI1Znu5Vzn0nCTjbJsNrjNbF8xsSXrs9X1Mwtc1E+IP
+2026-05-30 00:08:39.810 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:09:09.791 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:fVgm21WTpbAmtEDiP6meIGQcMlJBGvnb5h6oCh9JSAa/GssegIO/FA==
+2026-05-30 00:09:09.791 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:09:09.791 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:09:09.792 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:09:09.793 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:09:09.816 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:b6unCuni+uKKBWB3rlM9ucRBhgrivt7bca0aB5ms3y+UpOFQ48UP
+2026-05-30 00:09:09.817 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:09:39.799 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:OO9wnufHwUvyEMaA5hGrH6vurqbkMFWefUPY0SacF0JbJn/7xgf6vw==
+2026-05-30 00:09:39.800 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:09:39.800 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:09:39.801 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:09:39.801 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:09:39.822 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:9IoREABipE42DZdwkF10TsHYwub3X2DvFVS+k5p2yAjUZyVQFeHK
+2026-05-30 00:09:39.823 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:10:09.803 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:f6GSwYcAni0ZVv1PMs9veN12ReyTO8SGCD1D4goyYHa8o66GBmZg4g==
+2026-05-30 00:10:09.803 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:10:09.803 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:10:09.805 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:10:09.805 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:10:09.824 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:g/zLk+6/vgBOEbuquemuhmlS7aNoX5j/rnySMcu8Hayqcf3WT+GB
+2026-05-30 00:10:09.824 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:55:37.411 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:TW0XowrNAOGIkpvC6W2xBBbs7R6YE9X1EpH2biDBRQcwRQBEu2zZrQ==
+2026-05-30 00:55:37.411 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:55:37.411 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:55:37.416 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:55:37.416 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:55:37.467 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:HJKIOu4yM36VGcJEx1K9r472WV3zyXLdt00Q3AI0byt/QB7/6pPr
+2026-05-30 00:55:37.467 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:56:07.415 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:pg1WNU+sWYzRUf+iAL68lDcM/bQD171HTxhYgZtpVihCoIHVdj3Oqg==
+2026-05-30 00:56:07.415 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:56:07.415 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:56:07.418 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:56:07.418 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:56:07.458 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:SrbwKlvVeS7OVf95B4V7UYI/s/0s2CNywzEaCr77xYgGjK+fs8rM
+2026-05-30 00:56:07.458 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:56:37.422 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:Ctodo4Hoc7cYLjTu+1cy9Qo9XlkZadxm3ZMjh5BlfHw5pBOp1jItLA==
+2026-05-30 00:56:37.422 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:56:37.422 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:56:37.424 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:56:37.424 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:56:37.448 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:SqdihexiI99JlOP8lwVfoWFLKN6lxRhppW0pq8qpD73acNCyXzxp
+2026-05-30 00:56:37.449 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:57:07.423 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:IPlGcNh/je7232yJ/tc9b0v9VHJGNe0dS/8G/8XUqbI4vn0g8kEYxA==
+2026-05-30 00:57:07.423 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:57:07.423 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:57:07.424 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:57:07.424 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:57:07.449 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:avilIMJV7odDCWdqA4MvbgPtzn3FVK4JJRyTSI5RUbYw9nnnCFu2
+2026-05-30 00:57:07.449 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:57:37.437 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:2d/Nacf7DZ+PdW2MLKLBb6M4qagd0bZJsAizoOZvNQuR04sCO57LoA==
+2026-05-30 00:57:37.438 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:57:37.438 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:57:37.442 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:57:37.442 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:57:37.495 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:TVPg+sliho23iSw2PYOdlLZ50qm8wK4FTNY11EMcxFGoZ9b4RmmE
+2026-05-30 00:57:37.496 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:58:07.438 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:todC4GatP8kr4tda0HCWxchmJyzKygRHsn5OIoG8pRxhAtyrsBNLkQ==
+2026-05-30 00:58:07.439 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:58:07.439 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:58:07.442 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:58:07.442 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:58:07.479 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:59RKUOOXLOFBYdW6ObPT9ZuykZiWv34tL253Yk8WaLFXjyIO5ZZ5
+2026-05-30 00:58:07.480 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 00:58:37.444 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:Xm3069LWPphBWaotEf8GjkXc5Mu7OUzJ43VEtRbLQ7rUWACM39L8/Q==
+2026-05-30 00:58:37.444 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 00:58:37.445 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 00:58:37.448 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 00:58:37.449 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 00:58:37.482 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:Xxu7tNi6/n9PtpuL/EUVv1M1R8ormrXzfvHoa3WfMC7dj6vPwDu3
+2026-05-30 00:58:37.483 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:18:39.275 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:ik/KJbIuKbi9YujZRujRZYr1B8nTmxaRs3Ic1ZbOdbpDT4azVfmfZA==
+2026-05-30 01:18:39.276 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:18:39.276 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:18:39.282 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:18:39.282 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:18:39.353 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:kGeMPDSQH0t720xrMyCZR+S7K9aRls/fJaCXOB3qxAr8U2iGS1LE
+2026-05-30 01:18:39.354 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:19:09.279 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:VPQuheiIyyvZJGTD37guW0bSsN2U42tgBM68xZY3yxD6/JFb2Q/7LQ==
+2026-05-30 01:19:09.279 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:19:09.279 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:19:09.280 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:19:09.280 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:19:09.301 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:hG4m+LW4BwyIeIEQaeasobASJfXAYR+njSxGXb7RfNy3i2CuSdGV
+2026-05-30 01:19:09.302 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:19:39.282 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:PTS0A5ZYOvENXQoAO0nPhRSslccRSghcm696YOLmzek1oQ2scL4Tew==
+2026-05-30 01:19:39.283 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:19:39.283 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:19:39.285 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:19:39.286 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:19:39.330 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:tyqp95i+tYGtr42Si5CVBFCYrD7MXpIoKAdrHSIhbpDNJYCbX37O
+2026-05-30 01:19:39.331 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:20:09.292 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:sCiE3G1ZaY6Fds9ZRQfdsl09eG9e414OpB0fq92AqUIpAB4hERPESA==
+2026-05-30 01:20:09.293 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:20:09.293 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:20:09.296 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:20:09.296 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:20:09.328 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:WYI6IDTSO2st/qQURzp4nNXqALI3yB65mbX2RoXnZTNX+94ljIfo
+2026-05-30 01:20:09.328 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:20:39.298 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:P8SJDSpZ4+uxbA/Jcxl8Bi7GmjFksgR5XA7sGvsld7rx1lfhU6DM2g==
+2026-05-30 01:20:39.298 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:20:39.298 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:20:39.303 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:20:39.303 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:20:39.335 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:SiB38gDoN97jL+r2XfJe4tKXCSUKmffX20KYdc8KTs8+iXlcPFq/
+2026-05-30 01:20:39.335 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:21:09.308 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:YajR7jyjRa71+XMFz9Ycm1a2AeK2FN7/HHIT9wT68M1Fb2q65fn3aA==
+2026-05-30 01:21:09.309 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:21:09.309 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:21:09.313 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:21:09.313 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:21:09.329 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:ZkP1AfhhASXQj/0zu0TEbgYFvrs6cX3v7KieSsfkr+hSNQW3v3ed
+2026-05-30 01:21:09.330 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:21:39.311 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:0dpa6dCji0BZFG9FnQP3ZH0Yycl75Z71eC+yzrDAxas9lbKlsVpZPw==
+2026-05-30 01:21:39.312 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:21:39.312 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:21:39.318 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:21:39.318 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:21:39.379 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:Sz+VKv4NnyNyQTzunwylv4lu3kDD2ZN+x24ypJLDKc33YZ484P/m
+2026-05-30 01:21:39.379 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:22:09.313 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:cowEhSeK3RadvNhnmFdSMtNdOHG6rmbWak/b/B5BgFCkkQ3CIdMwMg==
+2026-05-30 01:22:09.313 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:22:09.314 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:22:09.316 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:22:09.316 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:22:09.343 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:1q0V9kKZf7NUC2xGnJks5UTQ1Am2hE3bD9x8U08/YCAfrTLm3DTv
+2026-05-30 01:22:09.343 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:22:39.323 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:P3sQM4LUvZV0sDCwlVwtvOmmY14yVGFfaqCXDzubh39NDCfzaWE5RQ==
+2026-05-30 01:22:39.324 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:22:39.324 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:22:39.328 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:22:39.329 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:22:39.369 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780095158106_25:kUgNbtrfYc9V1TMPEhBXTTEeGfAvR4B+4rX+9OqbsqxiJWi32sma
+2026-05-30 01:22:39.370 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:23:41.229 [INFO ] server.Server - 🔐 Démarrage du serveur ChriOnline...
+2026-05-30 01:23:41.248 [INFO ] server.Server - ✅ Serveur normal lancé sur le port 5001
+2026-05-30 01:23:41.248 [INFO ] server.Server - 🛡️ Protection SYN Flood active - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:23:41.248 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:23:41.466 [INFO ] server.Server - 🔒 Serveur SSL lancé sur le port 8443
+2026-05-30 01:23:41.467 [INFO ] server.Server -    - Authentification client requise
+2026-05-30 01:23:41.467 [INFO ] server.Server -    - Chiffrement TLS activé
+2026-05-30 01:23:41.467 [INFO ] server.Server - 🛡️ Protection SYN Flood active sur SSL - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:24:01.472 [INFO ] server.Server - 📱 Nouveau client connecté : 127.0.0.1 (connexions IP: 1/5, total: 1/50)
+2026-05-30 01:24:02.038 [INFO ] server.ClientHandler - Client connecté : 127.0.0.1
+2026-05-30 01:24:02.040 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_AUTH_CHALLENGE:ouedraogoariel43@gmail.com
+2026-05-30 01:24:02.040 [INFO ] server.ClientHandler - 📨 ADMIN_AUTH_CHALLENGE reçu: ADMIN_AUTH_CHALLENGE:ouedraogoariel43@gmail.com
+2026-05-30 01:24:02.137 [INFO ] server.ClientHandler - ✅ Challenge généré pour ouedraogoariel43@gmail.com
+2026-05-30 01:24:02.197 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_AUTH_VERIFY:ouedraogoariel43@gmail.com:d6ifq1OfzFHwAo7rm8oAF9Ih1gLMp+aX5cFTu9MBtQtQYQ8nGJ7hRIKbKoVMQpNini/LfLrfB4+Y6/V54WCr2HKujaDo8Jw3xYom3MX0athVfa+J+z7xBzqoCamUfLXoGINuoGskj3z9wgfMpP8N6wM4j0LCrCRqYKeHF3KqF32PMiNx2lgf74HB4KDxqxhU6oqcAu/tKQBwIQ2aJ8U+aY+iWKM8DPWBt9pKwkeSD5bEpBTrXDk6eUBeGgeyWMxBs1cPQgSH/bKtjDRdad51dF+iSAQA+Y1uNdv81YXl6MUkjMHtlMi96lZGQBKzvUeacim5h/GWRuwF5duw7xI+Yw==
+2026-05-30 01:24:02.259 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PROFILE:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh:8
+2026-05-30 01:24:02.304 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_DASHBOARD_SUMMARY:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.532 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_NOTIFICATIONS:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.540 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_STOCK_ALERTS:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.563 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.564 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:24:02.572 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:24:02.582 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_CATEGORIES:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.599 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_ORDERS:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.712 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_USERS:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.725 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_NOTIFICATIONS:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.738 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_STOCK_ALERTS:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.749 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_STOCK_HISTORY:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:02.770 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_GET_DASHBOARD_SUMMARY:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:09.865 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: LOGOUT:22610a02-5864-46dd-a212-7f7086a79929-1780100642215-qs1UyTyh
+2026-05-30 01:24:33.081 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: LOGIN:arielyameogo121@gmail.com:5f6312831aa9ee5de76eecfb5d75e14aeb490fa0b5b6d01364533816e3e7debb
+2026-05-30 01:24:33.309 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: INIT_SECURE:client_1780100673305_25:bQlM943Ovp/bY2hKC5mfdKHYXh72pD0bSrsKQvtSFig=
+2026-05-30 01:24:33.310 [INFO ] server.ClientHandler - 🔐 Session sécurisée créée - ID: client_1780100673305_25
+2026-05-30 01:24:33.316 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:1UUYvWLAFL04LVBC89vXVxjRS32bFcVuTpopLVXm82Q5EcNaDSCo2xGC
+2026-05-30 01:24:33.322 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PROFILE:12
+2026-05-30 01:24:33.350 [INFO ] ui.ShopFrame - 🛒 Ouverture du ShopFrame - Utilisateur: 12, Rôle: client
+2026-05-30 01:24:33.359 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:R2MU6gJnKmgIoxW8SFZjBVkB/oSASst8QvQdYB+UqEWRDuQdwAyIpA==
+2026-05-30 01:24:33.360 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:24:33.360 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:24:33.362 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:24:33.370 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:P5Y48sWF+kbH+H/cHmARCdxJLbeR3oMuE4N0ObjT4BC6SKd5ruYnJWXs
+2026-05-30 01:24:33.372 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_CATEGORIES
+2026-05-30 01:24:34.223 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:BVbbpHyyekND6WwWhHLu1Sfy3Q7BUGfApaNL4rkKXXXy1yB4TWWR
+2026-05-30 01:24:34.224 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:24:34.234 [INFO ] ui.ShopFrame - Rafraîchissement automatique des produits démarré (toutes les 30 secondes)
+2026-05-30 01:24:36.831 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:4IuT4tmPPutvWlxMyWDpLGio73hMm+UUgcr70O9oCHkTmcAGV7RfMuG62A==
+2026-05-30 01:24:36.832 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCT:121
+2026-05-30 01:24:40.614 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:3eVo1R9riXDDpRd1Rx9qk1+//6Bg23N4NQ0ykaaG7f7cSNlcD+cJY1E+Zg==
+2026-05-30 01:24:40.615 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCT:121
+2026-05-30 01:24:46.249 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:cQYQrn+7CigR2m66EbiRjCfoo0FVwbLwbItflaI74J+4V1d7Hv457BAc8RUO
+2026-05-30 01:24:46.251 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_ADD:12:119:1
+2026-05-30 01:24:46.275 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:eOangBq0QdlPEOIexoheA0He3TW3giLH1xH/QC6y1xxHgLU7+RWi
+2026-05-30 01:24:46.276 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:24:47.973 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:/tS1uv28UDTwQ3mGjFwYL5xwJnuky1kEWVWn5/rVi5R8biQNbLVV
+2026-05-30 01:24:47.974 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:24:50.759 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100673305_25:bpsaitXUrTTR/uKnCKiDBv8vTAxIhnAryiWDmtkZWJkAru7zDkY0DBQMiZ+gjTshxfcmBoENYEP2qNBMwdURAupze9e3p8WbAu3RzwuUyIvo08LRlYP9KQJw
+2026-05-30 01:24:50.761 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CHECKOUT:12:5d6fbdbf-6238-4c74-967a-900384b75db4:1780100690750
+2026-05-30 01:24:50.761 [INFO ] server.ClientHandler - 📦 CHECKOUT - parts count: 3, content: [12, 5d6fbdbf-6238-4c74-967a-900384b75db4, 1780100690750]
+2026-05-30 01:24:50.762 [WARN ] server.ClientHandler - ❌ CHECKOUT FORMAT invalide - startIdx: 2, parts: 3
+2026-05-30 01:25:49.473 [INFO ] server.Server - 🔐 Démarrage du serveur ChriOnline...
+2026-05-30 01:25:49.494 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:25:49.494 [INFO ] server.Server - ✅ Serveur normal lancé sur le port 5001
+2026-05-30 01:25:49.495 [INFO ] server.Server - 🛡️ Protection SYN Flood active - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:25:49.705 [INFO ] server.Server - 🔒 Serveur SSL lancé sur le port 8443
+2026-05-30 01:25:49.706 [INFO ] server.Server -    - Authentification client requise
+2026-05-30 01:25:49.706 [INFO ] server.Server -    - Chiffrement TLS activé
+2026-05-30 01:25:49.706 [INFO ] server.Server - 🛡️ Protection SYN Flood active sur SSL - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:26:14.201 [INFO ] server.Server - 📱 Nouveau client connecté : 127.0.0.1 (connexions IP: 1/5, total: 1/50)
+2026-05-30 01:26:14.817 [INFO ] server.ClientHandler - Client connecté : 127.0.0.1
+2026-05-30 01:26:14.856 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: LOGIN:arielyameogo121@gmail.com:5f6312831aa9ee5de76eecfb5d75e14aeb490fa0b5b6d01364533816e3e7debb
+2026-05-30 01:26:15.344 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: INIT_SECURE:client_1780100775309_25:Sgidv25DIydrKIa9bdYp7NRO1TIg8ys8niUz9qNBgGg=
+2026-05-30 01:26:15.345 [INFO ] server.ClientHandler - 🔐 Session sécurisée créée - ID: client_1780100775309_25
+2026-05-30 01:26:15.378 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:nA64/ISdNthuHF5HsPcNNHTs9z2l1Nx+tOBd1yJWrJEWHMm+rN0sXO8Z
+2026-05-30 01:26:15.383 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PROFILE:12
+2026-05-30 01:26:15.411 [INFO ] ui.ShopFrame - 🛒 Ouverture du ShopFrame - Utilisateur: 12, Rôle: client
+2026-05-30 01:26:15.463 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:ueyWCgyw3zldtfVZit+bXlQZ2OrmicpEfx/UUN6ikjNCmuXXB9IzTw==
+2026-05-30 01:26:15.464 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:26:15.464 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:26:15.477 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:26:15.484 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:fJIlftzmqNBmFc5lPreKQ563lvlDaJwwa1wBHBgC/5djdtLLrsm45yko
+2026-05-30 01:26:15.485 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_CATEGORIES
+2026-05-30 01:26:16.361 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:mfpkDMy8NVk+YJT2gqXwbXBFb9MKqyURLi1j2KnkA9vxjykC/F8G
+2026-05-30 01:26:16.362 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:26:16.368 [INFO ] ui.ShopFrame - Rafraîchissement automatique des produits démarré (toutes les 30 secondes)
+2026-05-30 01:26:18.141 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:TtBgFiBUYd91MVozjvljcgbooQmrg7GmDg+sVrp/sWAugwFFxRP2MNj4xA==
+2026-05-30 01:26:18.142 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCT:121
+2026-05-30 01:26:46.387 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:L7JCfIsOA/FoidvWS9vppV+Zs9kkCGGp8IJkScutNzB7uCGNoMeA0w==
+2026-05-30 01:26:46.388 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:26:46.389 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:26:46.410 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:26:46.569 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:MQa4fU0ZTiiWIT0aEL6eQxVuu+eHA7s/ouYT56iIAT7QREsp5aji
+2026-05-30 01:26:46.570 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:27:16.394 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:Ap4SSMKbrxhuOLvBTldAoJ2Lq8znwKKEw0o2g75w39r9vkcsoRzXNA==
+2026-05-30 01:27:16.396 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:27:16.396 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:27:16.421 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:27:16.481 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:0xLOP/VQYRA7DMqbSqGYdBgjPjINENsFMkSsTTjL2F9puuKxyJPl
+2026-05-30 01:27:16.482 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:27:27.359 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:viJioGloEFAzKw+AUXW5L5OK/WBamoPCMBM02z/OGg3Ek+5PfWNOiOHw6p7D
+2026-05-30 01:27:27.360 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_ADD:12:111:3
+2026-05-30 01:27:27.380 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:bqT5ghryDUmM9iFffeWPEfbpx+2JMNIb6qJkve29TbolSD4NUwH+
+2026-05-30 01:27:27.381 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:27:29.179 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:gbxVk7z8uxzdrVLOluNqfnMnhvTJ5ubNwOjmE8mdW2etPLsejGJV
+2026-05-30 01:27:29.180 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:27:32.435 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780100775309_25:+4hMF+2gNeXekHtSxDoRVvqGKmObtrnWVBa2cZtqqdyAL6NODMPjsN2JubtIaYYjbehLLTAxV00saVs1+7CcsWpaN2kfiXMMPxh5dfiBZHhSGtS9Q4TgfMXh
+2026-05-30 01:27:32.436 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CHECKOUT:12:f6253ed5-3307-48a9-901b-ce403a384abc:1780100852423
+2026-05-30 01:27:32.437 [INFO ] server.ClientHandler - 📦 CHECKOUT - parts count: 3, content: [12, f6253ed5-3307-48a9-901b-ce403a384abc, 1780100852423]
+2026-05-30 01:27:32.437 [WARN ] server.ClientHandler - ❌ CHECKOUT FORMAT invalide - startIdx: 2, parts: 3
+2026-05-30 01:31:21.410 [INFO ] server.Server - 🔐 Démarrage du serveur ChriOnline...
+2026-05-30 01:31:21.429 [INFO ] server.Server - ✅ Serveur normal lancé sur le port 5001
+2026-05-30 01:31:21.428 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:31:21.429 [INFO ] server.Server - 🛡️ Protection SYN Flood active - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:31:21.636 [INFO ] server.Server - 🔒 Serveur SSL lancé sur le port 8443
+2026-05-30 01:31:21.637 [INFO ] server.Server -    - Authentification client requise
+2026-05-30 01:31:21.637 [INFO ] server.Server -    - Chiffrement TLS activé
+2026-05-30 01:31:21.638 [INFO ] server.Server - 🛡️ Protection SYN Flood active sur SSL - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:31:45.354 [INFO ] server.Server - 📱 Nouveau client connecté : 127.0.0.1 (connexions IP: 1/5, total: 1/50)
+2026-05-30 01:31:45.972 [INFO ] server.ClientHandler - Client connecté : 127.0.0.1
+2026-05-30 01:31:46.016 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: LOGIN:arielyameogo121@gmail.com:5f6312831aa9ee5de76eecfb5d75e14aeb490fa0b5b6d01364533816e3e7debb
+2026-05-30 01:31:46.452 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: INIT_SECURE:client_1780101106425_25:BpGjJv6g5t+EviGRzk4jJbEZRkl6ATpoPSLUOqS3NAc=
+2026-05-30 01:31:46.453 [INFO ] server.ClientHandler - 🔐 Session sécurisée créée par échange de nonces - ID: client_1780101106425_25
+2026-05-30 01:31:46.486 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101106425_25:eU71g4Vmgs7sVHi1MUpJfknMRCu24fevB4d1ddzZZsK3OjU/AYYcAijo
+2026-05-30 01:31:46.491 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PROFILE:12
+2026-05-30 01:31:46.509 [INFO ] ui.ShopFrame - 🛒 Ouverture du ShopFrame - Utilisateur: 12, Rôle: client
+2026-05-30 01:31:46.563 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101106425_25:fMrAn+Ve2mwodUZcwxEAegMbfITiDp+E61xq4v5RnQF49Sm+xhwdBA==
+2026-05-30 01:31:46.563 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:31:46.563 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:31:46.578 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:31:46.579 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:31:46.586 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101106425_25:lciRgrE53/evMYdRRLk6BOQpPk1mG4CqVaW3swp1rwNvvkXM/v39gjjT
+2026-05-30 01:31:46.586 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_CATEGORIES
+2026-05-30 01:31:47.403 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101106425_25:uBpOP/xbPyjAvMsiWzpRsKLRWtD5Ivvk6bb2IEfkb/Jb9C/63Y8j
+2026-05-30 01:31:47.404 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:31:47.412 [INFO ] ui.ShopFrame - Rafraîchissement automatique des produits démarré (toutes les 30 secondes)
+2026-05-30 01:31:48.852 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101106425_25:9u4tac4/IUU/BPw/4UhsxlmaJPTCeFwCrKiEpUKCG061jSpD846f6mP6yw==
+2026-05-30 01:31:48.853 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCT:121
+2026-05-30 01:31:52.805 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101106425_25:f+TL7RTFxg0+d7dohZ0RzgYyog3KPgVuzWO4Ff5vZy5jFSPJah9Vo8NxhQ==
+2026-05-30 01:31:52.806 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCT:120
+2026-05-30 01:31:56.353 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101106425_25:q43H8Z/KgAaB1JaFEh8rmID9vLNvQl1HCCB20yqL96rIEKOwRz4Y
+2026-05-30 01:31:56.354 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:31:58.589 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101106425_25:lrJBU/fjCJEVnPrIltmCBK7l6+QMBmEO5zXneWwb6VsruOxrafRALt+6nZYGtTqa4iqJjkADvuOZmb1ihbwbOsGqg7QAeFhqbfMtzdSFsPmojJpeUVolGLpA
+2026-05-30 01:31:58.590 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CHECKOUT:12:4a4a7ad4-0467-4944-a834-a509017f1f9f:1780101118584
+2026-05-30 01:32:54.054 [INFO ] server.Server - 🔐 Démarrage du serveur ChriOnline...
+2026-05-30 01:32:54.071 [INFO ] server.Server - ✅ Serveur normal lancé sur le port 5001
+2026-05-30 01:32:54.071 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:32:54.071 [INFO ] server.Server - 🛡️ Protection SYN Flood active - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:32:54.288 [INFO ] server.Server - 🔒 Serveur SSL lancé sur le port 8443
+2026-05-30 01:32:54.289 [INFO ] server.Server -    - Authentification client requise
+2026-05-30 01:32:54.289 [INFO ] server.Server -    - Chiffrement TLS activé
+2026-05-30 01:32:54.289 [INFO ] server.Server - 🛡️ Protection SYN Flood active sur SSL - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:33:21.181 [INFO ] server.Server - 📱 Nouveau client connecté : 127.0.0.1 (connexions IP: 1/5, total: 1/50)
+2026-05-30 01:33:21.822 [INFO ] server.ClientHandler - Client connecté : 127.0.0.1
+2026-05-30 01:33:21.866 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: LOGIN:arielyameogo121@gmail.com:5f6312831aa9ee5de76eecfb5d75e14aeb490fa0b5b6d01364533816e3e7debb
+2026-05-30 01:33:22.357 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: INIT_SECURE:client_1780101202335_25:jw9fTwVEvteiEoHIR/DBB9I/AlLWPQpGx3xJHiNcfFs=
+2026-05-30 01:33:22.359 [INFO ] server.ClientHandler - 🔐 Session sécurisée créée - ID: client_1780101202335_25
+2026-05-30 01:33:22.389 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101202335_25:x76eeUT0K4KFEVNxER1wMr2mUn0cW1+Nw5OnNbWbQpzS25AZf6NAeeww
+2026-05-30 01:33:22.395 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PROFILE:12
+2026-05-30 01:33:22.421 [INFO ] ui.ShopFrame - 🛒 Ouverture du ShopFrame - Utilisateur: 12, Rôle: client
+2026-05-30 01:33:22.464 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101202335_25:F7uqJg3k+E7JElibrZ6rs3DeYzayVsqYpQU8o8aWlZtSaJpVII0fAg==
+2026-05-30 01:33:22.464 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCTS
+2026-05-30 01:33:22.464 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:33:22.479 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:33:22.486 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101202335_25:Pjg3DO+PxhlO2GH/riaZZYxw6W2MbBTCqzfnWTR5osDjtWPkloUpiixD
+2026-05-30 01:33:22.486 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_CATEGORIES
+2026-05-30 01:33:23.285 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101202335_25:EQyugpCV4sqDtsqUUkCtpCvVb/WViJnVrWUGC1PpMnkyEuzfy206
+2026-05-30 01:33:23.286 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:33:23.292 [INFO ] ui.ShopFrame - Rafraîchissement automatique des produits démarré (toutes les 30 secondes)
+2026-05-30 01:33:25.273 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101202335_25:wysYw0kutPvA+WQr+C6ay82eiX6WNFNEuvXa2SGLlGN2vWEVRaH80+Wtww==
+2026-05-30 01:33:25.274 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCT:121
+2026-05-30 01:33:29.047 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101202335_25:+9dJTYLiyjXZzV7gwqv9W7fkDDxf5H963CltDpKlcnljhJ24YOUIfdsI3A==
+2026-05-30 01:33:29.048 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PRODUCT:120
+2026-05-30 01:33:33.469 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101202335_25:zrgmYBhQtMWLkUXfg7E0/5c79WrrQhl2X4xuoDhfvZU3+0xUdH1L
+2026-05-30 01:33:33.469 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:33:34.789 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101202335_25:4CzSV67MXhH8ZE+OKpdYHkVEQy9W3cHn1hmlOb6kAs9V1YnAldeCW2GDNGJVasPQGdrJsWiLwa+FdK69K3vyBInGFCVuvWURbqzDiObGxpEXByD2kgKiCFSV
+2026-05-30 01:33:34.790 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CHECKOUT:12:a9c9a834-f6f9-44a6-b57f-de1431168851:1780101214778
+2026-05-30 01:33:34.791 [INFO ] server.ClientHandler - 📦 CHECKOUT - parts count: 3, content: [12, a9c9a834-f6f9-44a6-b57f-de1431168851, 1780101214778]
+2026-05-30 01:33:34.791 [WARN ] server.ClientHandler - ❌ CHECKOUT FORMAT invalide - startIdx: 2, parts: 3
+2026-05-30 01:36:57.155 [INFO ] server.Server - 🔐 Démarrage du serveur ChriOnline...
+2026-05-30 01:36:57.171 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:36:57.171 [INFO ] server.Server - ✅ Serveur normal lancé sur le port 5001
+2026-05-30 01:36:57.172 [INFO ] server.Server - 🛡️ Protection SYN Flood active - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:36:57.379 [INFO ] server.Server - 🔒 Serveur SSL lancé sur le port 8443
+2026-05-30 01:36:57.379 [INFO ] server.Server -    - Authentification client requise
+2026-05-30 01:36:57.379 [INFO ] server.Server -    - Chiffrement TLS activé
+2026-05-30 01:36:57.379 [INFO ] server.Server - 🛡️ Protection SYN Flood active sur SSL - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:37:22.868 [INFO ] server.Server - 📱 Nouveau client connecté : 127.0.0.1 (connexions IP: 1/5, total: 1/50)
+2026-05-30 01:37:23.514 [INFO ] server.ClientHandler - Client connecté : 127.0.0.1
+2026-05-30 01:37:23.577 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: LOGIN:arielyameogo121@gmail.com:5f6312831aa9ee5de76eecfb5d75e14aeb490fa0b5b6d01364533816e3e7debb
+2026-05-30 01:37:24.064 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: INIT_SECURE:client_1780101444034_25:9gTki/0Fy3rIq2iuOmrlDyyomPisWBWl+7ogatnYoZc=
+2026-05-30 01:37:24.065 [INFO ] server.ClientHandler - 🔐 Session sécurisée créée par échange de nonces - ID: client_1780101444034_25
+2026-05-30 01:37:24.100 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:CVXPr2fY4M3HB2Pi+8tPD8bq3b4SoDIqhRrmGNEFA1+SJ8o6xxKedISN
+2026-05-30 01:37:24.107 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PROFILE:12
+2026-05-30 01:37:24.137 [INFO ] ui.ShopFrame - 🛒 Ouverture du ShopFrame - Utilisateur: 12, Rôle: client
+2026-05-30 01:37:24.190 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:37:24.190 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:37:24.204 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:37:24.205 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:37:24.206 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_CATEGORIES
+2026-05-30 01:37:25.121 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:FXi20AyPBcmC5nFksYD07307WV96wVbxf5Jt7yNT6YEJRtTS5ztC
+2026-05-30 01:37:25.121 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:37:25.128 [INFO ] ui.ShopFrame - Rafraîchissement automatique des produits démarré (toutes les 30 secondes)
+2026-05-30 01:37:31.868 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCT:121
+2026-05-30 01:37:31.869 [WARN ] server.ClientHandler - ⚠️ Requête sans token de session: GET_PRODUCT:121
+2026-05-30 01:37:34.925 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCT:120
+2026-05-30 01:37:34.925 [WARN ] server.ClientHandler - ⚠️ Requête sans token de session: GET_PRODUCT:120
+2026-05-30 01:37:40.705 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCT:117
+2026-05-30 01:37:40.705 [WARN ] server.ClientHandler - ⚠️ Requête sans token de session: GET_PRODUCT:117
+2026-05-30 01:37:43.802 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCT:119
+2026-05-30 01:37:43.802 [WARN ] server.ClientHandler - ⚠️ Requête sans token de session: GET_PRODUCT:119
+2026-05-30 01:37:49.882 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:dzEDOzM0JY/nUpMXuuW0xaTk+pDNbWHUeuBzzJMlfkel61wK1VOT
+2026-05-30 01:37:49.883 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:37:51.183 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:HnqdErELHB/bz1n+2RjsteMFt7X+MlrI0royvVV71siZ3Czzk24z+r1l8yV0zUOX7FhheoqIsff7JUjHvFcL03Vuzyu0hJhm2XZ97qJeLfYYkxiKlZumhIz0
+2026-05-30 01:37:51.185 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CHECKOUT:12:525a819f-5b3a-4fca-bbad-554aeda55c3b:1780101471177
+2026-05-30 01:37:56.166 [INFO ] ui.CartFrame - Suppression produit du panier - Utilisateur: 12, Produit: Controller, Quantité: 3
+2026-05-30 01:37:56.169 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:JchbnGqHbdcYt1zKtZ+u8ZP60gOVU2wT2+/o7aGE6V8CHRQld7HaUhZNta1dyA==
+2026-05-30 01:37:56.170 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_REMOVE:12:111
+2026-05-30 01:37:56.172 [ERROR] ui.CartFrame - Échec suppression produit - Utilisateur: 12, Produit: Controller, Erreur: ERROR:UNKNOWN_SECURE_COMMAND: CART_REMOVE:12:111
+2026-05-30 01:38:25.151 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:38:25.152 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:38:25.167 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:38:25.169 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:38:25.320 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:3HYHtuQbcxSSPE71ncj2WmQrOvqH4hpRDmaYZth9Wa65Uhn2rG/M
+2026-05-30 01:38:25.320 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:38:55.160 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:38:55.160 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:38:55.177 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:38:55.179 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:38:55.317 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:3/FrirkZlWYpdbzDi0grrujUfP5bLJUo+s+TlgGWym8QwxiFVaYT
+2026-05-30 01:38:55.319 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:39:25.161 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:39:25.162 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:39:25.176 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:39:25.178 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:39:25.294 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:lwej2MUdHXdDaq1PS5J9RZtZLybtybkX0KcnJWBGfRLuVY8sXOnN
+2026-05-30 01:39:25.295 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:39:55.167 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:39:55.168 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:39:55.182 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:39:55.183 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:39:55.295 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:sx4KkF9KGydvdlp7hoxyfuKRAyrkYoVp42i79fg0TQ4JPIS2yuI7
+2026-05-30 01:39:55.296 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:40:25.178 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:40:25.178 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:40:25.192 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:40:25.194 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:40:25.336 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:98RzBcscRlHpZGt2bCp+A7GRb1mGodEBasVi4vXv+IMKv+PWcz5/
+2026-05-30 01:40:25.337 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:40:55.192 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:40:55.192 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:40:55.204 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:40:55.206 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:40:55.308 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:WUyHiEcmT9czhA4jOK05Qe8lcUoEGZCDtQG7T+JXomVUJg21vS9I
+2026-05-30 01:40:55.309 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:41:25.197 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:41:25.198 [INFO ] server.ClientHandler - 🔍 [SERVER] GET_PRODUCTS appelé
+2026-05-30 01:41:25.208 [INFO ] server.ClientHandler - 🔍 [SERVER] Nombre de produits en base: 61
+2026-05-30 01:41:25.209 [INFO ] server.ClientHandler - ✅ [SERVER] Envoi de 61 produits
+2026-05-30 01:41:25.332 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101444034_25:86E4rnrNq5IjkTnDRSkSqySbEfitt8WZqnnT1iiqpB4ieJz56PNj
+2026-05-30 01:41:25.332 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:41:44.630 [INFO ] server.Server - 🔐 Démarrage du serveur ChriOnline...
+2026-05-30 01:41:44.650 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:41:44.650 [INFO ] server.Server - ✅ Serveur normal lancé sur le port 5001
+2026-05-30 01:41:44.650 [INFO ] server.Server - 🛡️ Protection SYN Flood active - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:41:44.885 [INFO ] server.Server - 🔒 Serveur SSL lancé sur le port 8443
+2026-05-30 01:41:44.886 [INFO ] server.Server -    - Authentification client requise
+2026-05-30 01:41:44.886 [INFO ] server.Server -    - Chiffrement TLS activé
+2026-05-30 01:41:44.886 [INFO ] server.Server - 🛡️ Protection SYN Flood active sur SSL - Max connexions/IP: 5, Max total: 50
+2026-05-30 01:42:13.601 [INFO ] server.Server - 📱 Nouveau client connecté : 127.0.0.1 (connexions IP: 1/5, total: 1/50)
+2026-05-30 01:42:14.207 [INFO ] server.ClientHandler - Client connecté : 127.0.0.1
+2026-05-30 01:42:14.263 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: LOGIN:arielyameogo121@gmail.com:5f6312831aa9ee5de76eecfb5d75e14aeb490fa0b5b6d01364533816e3e7debb
+2026-05-30 01:42:14.752 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: INIT_SECURE:client_1780101734725_25:lr1ZZrQLdUJvpJ81LYYwdEJeTxt4Fd4EqECdXoq5bjA=
+2026-05-30 01:42:14.753 [INFO ] server.ClientHandler - 🔐 Session sécurisée créée - ID: client_1780101734725_25
+2026-05-30 01:42:14.786 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:uc9XsQaZdVIS5jnUac3Esp1xIxcG1pI3MXT3Vg6dYGraug7kAG2ZMbGm
+2026-05-30 01:42:14.791 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PROFILE:12
+2026-05-30 01:42:14.834 [INFO ] ui.ShopFrame - 🛒 Ouverture du ShopFrame - Utilisateur: 12, Rôle: client
+2026-05-30 01:42:14.882 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:42:14.882 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:42:14.893 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:42:14.895 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_CATEGORIES
+2026-05-30 01:42:15.668 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:+kq229aGzJMMI8eurI0uaqHvIWwlGxPNrbVsB/xSQr3XSs3Udy9F
+2026-05-30 01:42:15.669 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:42:15.680 [INFO ] ui.ShopFrame - Rafraîchissement automatique des produits démarré (toutes les 30 secondes)
+2026-05-30 01:42:17.219 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCT:121
+2026-05-30 01:42:36.357 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:kUUGNUlSNrFWYUXEiUFc2GSegTdOzyzy0cVhHOA1rFPDpfzl0h6n
+2026-05-30 01:42:36.358 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:42:37.561 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:VEA7qjmx4LHbWXJPT4qRjyd60eTgPZWyX6VnPBY/hH3LiJlc+RpFUs/VjLkAaKZCPr0AT+B5irVlaZRk4/mby4k6fOJGHT5z0gaLeVw+AwxXuFFd2pObU2u4
+2026-05-30 01:42:37.562 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CHECKOUT:12:0885ee0d-f7af-4e2e-a213-4ac87e44d9da:1780101757550
+2026-05-30 01:42:37.563 [INFO ] server.ClientHandler - 📦 CHECKOUT - parts count: 4, content: [CHECKOUT, 12, 0885ee0d-f7af-4e2e-a213-4ac87e44d9da, 1780101757550]
+2026-05-30 01:42:42.616 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:ipMAUOpeS17cBBk/FktbVMV2aw3+3M9gR2wqOlm+DyUTY+WsdXtTVLsxJYAz9LKHKEhyc6EWF92H6E2QMx7RgLOpC1xrLw0NyNh07LGmn9iYKAHXGeu8FVovAgRSF6+gXnqLDiEoc3jFPqviwEoLJaZuQHINoDjIKt8sR49oIwF3QE0=
+2026-05-30 01:42:42.617 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: PAYMENT:45fd9159-aa9c-4463-b91d-4348a43577db:especes:91647f9a-fcde-47e9-abcb-757ad4ce037d:1780101762095
+2026-05-30 01:42:42.618 [INFO ] server.ClientHandler - 📦 PAYMENT - parts count: 5, content: [PAYMENT, 45fd9159-aa9c-4463-b91d-4348a43577db, especes, 91647f9a-fcde-47e9-abcb-757ad4ce037d, 1780101762095]
+2026-05-30 01:42:45.688 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:42:45.688 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:42:45.707 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:42:45.793 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:mJYM8QAz9JA1VZ1l38qHRHJA9ozCwz0VBOHxlSCEXB9QSRXZg6BV
+2026-05-30 01:42:45.793 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: CART_GET:12
+2026-05-30 01:42:47.738 [INFO ] ui.ShopFrame - Déconnexion - Utilisateur: 12, Rôle: client
+2026-05-30 01:43:05.382 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_AUTH_CHALLENGE:ouedraogoariel43@gmail.com
+2026-05-30 01:43:05.383 [INFO ] server.ClientHandler - 📨 ADMIN_AUTH_CHALLENGE reçu: ADMIN_AUTH_CHALLENGE:ouedraogoariel43@gmail.com
+2026-05-30 01:43:05.388 [INFO ] server.ClientHandler - ✅ Challenge généré pour ouedraogoariel43@gmail.com
+2026-05-30 01:43:05.434 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: ADMIN_AUTH_VERIFY:ouedraogoariel43@gmail.com:a2tR3EjeVmR7cSsqyTPCpX4OkDGcQo1DXTkjp24nqwUrjcUkczzJiQqeuPmwvgS7wsQjxO9t1FMbPy7JshjYh13dPvQA9hHbs666ZK7lXEpUU7OZxDgF4/VF81OUCXhLi3+lZ8H8rXGbkZB+FsmnMMoO6jk4BcgXCEViZwL5P3NofSUuODYQh07Rnbmtn0s62MPHOcQ4Hzu3qvKN83XAXXCf+0lY7gtRW6SrcQ4QBKHD6BSzUfIueUwossCWTHp6YDsWW/nwIpxm6epDh2y+gfJ/TXyi2y4Kg06UUPxo8iiv26rsy6maYQq8yIw6EY1MPDCA/VaaLZ7EZGyS7IQEwQ==
+2026-05-30 01:43:05.449 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:GEbiNNjhp3tVyl04nRaXildf3kVpcVma6b1m+XDb7ZNo6WxKuAg5iZM=
+2026-05-30 01:43:05.449 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: GET_PROFILE:8
+2026-05-30 01:43:05.471 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:3D1dQOEW41nRSuUZ3z4Tc1xKexn7Y7DyGQ4ANxD2jAAEswFtsNbZ2xeWG5R9bWhjkpZ6TDhvRA==
+2026-05-30 01:43:05.472 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_DASHBOARD_SUMMARY
+2026-05-30 01:43:05.605 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:hXro8Al3OAufhtJH/9ZZ8fTmjZfdxgNkKzkm3AYi++dYGDMSx0LZUGVg+TH1tIqLZ67U
+2026-05-30 01:43:05.606 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_NOTIFICATIONS
+2026-05-30 01:43:05.616 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:7jIonU1gTpy0NylOqBAZjcK25IUM7wVJZIaccfm9fQUESqkp+Jk+uIqtoPelilSdSTM=
+2026-05-30 01:43:05.617 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_STOCK_ALERTS
+2026-05-30 01:43:05.639 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:43:05.639 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:43:05.648 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:43:05.654 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:mj3Wc4li4AQ1ZASGyrjcdHUlE7efuZlpOdlx1VE/TVLWJJjj3AaNPbrEMSNwZSFm
+2026-05-30 01:43:05.655 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_CATEGORIES
+2026-05-30 01:43:05.663 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:dXfLtQyInMoAFoxshFnkbqptBG27t4vBK4+iDgGXpaUDten8/SJFihpteWI=
+2026-05-30 01:43:05.664 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_ORDERS
+2026-05-30 01:43:05.793 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:u/OyhSScwdNLKLTtIYP+Bb216s+UykSBMEN5zHU+PY4m/fIpH2Z0WCCSFQ==
+2026-05-30 01:43:05.794 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_USERS
+2026-05-30 01:43:05.805 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:WbmBE8U3QUmDd/8DQruRFzVSosR+0eT3PQOaW3OJaHJG33Ub92v0egworPmeSJpGhQ9w
+2026-05-30 01:43:05.806 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_NOTIFICATIONS
+2026-05-30 01:43:05.818 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:tMZmV2E1Laq3CiId5jwvjST4PJkLrze3JTthv0OMaNL1zMVnMc0sMlh0p3m3DQ5Xh38=
+2026-05-30 01:43:05.818 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_STOCK_ALERTS
+2026-05-30 01:43:05.831 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:0AJ6+VS9SIyk056xYtH3I2LoTNYevdCci0yTN9Wk6M7MXGs3a8L2JBEjg6eRk5O6Vv0j
+2026-05-30 01:43:05.832 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_STOCK_HISTORY
+2026-05-30 01:43:05.849 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:kcng/yNDvTSnS/ZnFQ5F/9A8T4ziU+F0niQVvJaDUQpOt4Jq4Hl+ggKaDupdvLZWqxBVsqZz6g==
+2026-05-30 01:43:05.850 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_DASHBOARD_SUMMARY
+2026-05-30 01:43:09.335 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: GET_PRODUCTS
+2026-05-30 01:43:09.335 [INFO ] server.ClientHandler - 🔍 GET_PRODUCTS appelé
+2026-05-30 01:43:09.342 [INFO ] server.ClientHandler - ✅ Envoi de 61 produits
+2026-05-30 01:43:10.352 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:y2sLSR57rx6nsiZQq/7PYbfnLi950jjaAJvlaRZiB+hjWO85bmfiFnlgWByVnoIW
+2026-05-30 01:43:10.353 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_CATEGORIES
+2026-05-30 01:43:11.168 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:hzl/IyXX82A8yxpyRaCPf7TN4ZaiJcGdNKHry29GiNh34RWBGk5yc0KMSUE=
+2026-05-30 01:43:11.168 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_ORDERS
+2026-05-30 01:43:11.931 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:a8peRF/CDsVIPYhpvmvYTf5WAXkm5hP9aZv/o9u1ddjIyKcpyhj5yklBmA==
+2026-05-30 01:43:11.933 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_USERS
+2026-05-30 01:43:12.727 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:yxErfdOY8MrrzsKEsXyP9D0TPP9ErzV33elM8YKEmjAo3TIxAGnc37V4mUfsqzvWiZy8
+2026-05-30 01:43:12.728 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_NOTIFICATIONS
+2026-05-30 01:43:13.584 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:mR3t8cGDMhHKAvEuWj0fmNJe1O/3DmUHqzmntB3hYzX3ZBCJAA3+rfShKAkL7b2WEvc=
+2026-05-30 01:43:13.584 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_STOCK_ALERTS
+2026-05-30 01:43:13.592 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:AbXIGFkXOsmaRdlIxSSKSp0xsQxJewpolAWIFNArSPmNZvmmHKEBShiNfMw8BZjGjeJa
+2026-05-30 01:43:13.593 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_STOCK_HISTORY
+2026-05-30 01:43:14.347 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: SECURE:client_1780101734725_25:KJz42696A7UBnQVsV/YLNBtlGVkoUvoKqqjc/KZhtmojEBv1U4S6FgSuBmDNIsqL4UWExPI8jA==
+2026-05-30 01:43:14.348 [INFO ] server.ClientHandler - 🔧 Traitement commande sécurisée: ADMIN_GET_DASHBOARD_SUMMARY
+2026-05-30 01:43:17.769 [INFO ] server.ClientHandler - 📨 REQUÊTE REÇUE: LOGOUT:9ca1530b-d7c2-4399-b1a4-e2d8ff9d8658-1780101785447-rQ5dCWi8

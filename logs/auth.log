@@ -1,0 +1,25 @@
+2026-05-30 01:24:02.239 [INFO ] com.chrionline.auth - ✅ Session créée pour admin RSA - userId: 8
+2026-05-30 01:24:02.274 [INFO ] com.chrionline.auth - ✅ Authentification admin RSA réussie - email: ouedraogoariel43@gmail.com, id: 8, token: 22610a02-5864-46dd-a...
+2026-05-30 01:24:09.867 [INFO ] com.chrionline.auth - 🔓 Déconnexion - IP: 127.0.0.1
+2026-05-30 01:24:33.294 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, rôle: client
+2026-05-30 01:24:33.305 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, id: 12, rôle: client
+2026-05-30 01:24:33.312 [INFO ] com.chrionline.auth - 🔐 Communication chiffrée AES-256 activée pour l'utilisateur 12
+2026-05-30 01:26:15.273 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, rôle: client
+2026-05-30 01:26:15.306 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, id: 12, rôle: client
+2026-05-30 01:26:15.347 [INFO ] com.chrionline.auth - 🔐 Communication chiffrée AES-256 activée pour l'utilisateur 12
+2026-05-30 01:31:46.400 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, id: 12, rôle: client
+2026-05-30 01:31:46.421 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, id: 12, rôle: client
+2026-05-30 01:31:46.455 [INFO ] com.chrionline.auth - 🔐 Communication chiffrée AES-256 activée pour l'utilisateur 12
+2026-05-30 01:33:22.302 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, rôle: client
+2026-05-30 01:33:22.333 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, id: 12, rôle: client
+2026-05-30 01:33:22.361 [INFO ] com.chrionline.auth - 🔐 Communication chiffrée AES-256 activée pour l'utilisateur 12
+2026-05-30 01:37:24.001 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, id: 12, rôle: client
+2026-05-30 01:37:24.031 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, id: 12, rôle: client
+2026-05-30 01:37:24.068 [INFO ] com.chrionline.auth - 🔐 Communication chiffrée AES-256 activée pour l'utilisateur 12
+2026-05-30 01:42:14.696 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, rôle: client
+2026-05-30 01:42:14.722 [INFO ] com.chrionline.auth - ✅ Connexion réussie - email: arielyameogo121@gmail.com, id: 12, rôle: client
+2026-05-30 01:42:14.754 [INFO ] com.chrionline.auth - 🔐 Communication chiffrée AES-256 activée pour l'utilisateur 12
+2026-05-30 01:43:05.381 [INFO ] com.chrionline.auth - 🔐 Tentative authentification admin RSA - email: ouedraogoariel43@gmail.com
+2026-05-30 01:43:05.447 [INFO ] com.chrionline.auth - ✅ Session créée pour admin RSA - userId: 8
+2026-05-30 01:43:05.454 [INFO ] com.chrionline.auth - ✅ Authentification admin RSA réussie - email: ouedraogoariel43@gmail.com, id: 8, token: 9ca1530b-d7c2-4399-b...
+2026-05-30 01:43:17.771 [INFO ] com.chrionline.auth - 🔓 Déconnexion - IP: 127.0.0.1

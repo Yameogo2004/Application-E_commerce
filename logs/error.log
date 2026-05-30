@@ -1,0 +1,12 @@
+2026-05-30 01:23:41.248 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:24:50.763 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:25:49.494 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:27:32.439 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:31:21.428 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:31:58.591 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:32:54.071 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:33:34.793 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:36:57.171 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
+2026-05-30 01:37:51.187 [ERROR] com.chrionline.payment - ❌ Échec checkout - Utilisateur: 12, Erreur: ERROR:CHECKOUT_FORMAT
+2026-05-30 01:37:56.172 [ERROR] ui.CartFrame - Échec suppression produit - Utilisateur: 12, Produit: Controller, Erreur: ERROR:UNKNOWN_SECURE_COMMAND: CART_REMOVE:12:111
+2026-05-30 01:41:44.650 [ERROR] server.UDPServer - ❌ Erreur socket UDP: Address already in use: bind
